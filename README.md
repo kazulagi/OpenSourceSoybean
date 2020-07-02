@@ -24,6 +24,7 @@ Others are comming soon...
 Anyone. It doesn't matter what race or nationality you have.
 We are international volunteers.
 
-# How to get?
+# How to get/How to contribute?
 
 Contact to the maintainer @kazulagi by e-mail.
+
