@@ -8,13 +8,13 @@ If you want to get seed, you can get the sources or physical instances of seed.
 
 # There are 2 varieties available now.
 
-kz 2020070101
+kz 2020070101　（Code Name: Sawando, さわんど）
 -   Enrei (JP 239573) ×　Mizukuguri (JP 233882) => F8
 
 
     Selected for Tofu and processing foods.
 
-kz 2020070102
+kz 2020070102　（Code Name: Sawando, つるぎ）
 -   Mizukuguri (JP 233882) ×　Stressland (PI 593645) => F7
 
 
