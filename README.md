@@ -31,4 +31,5 @@ We are international volunteers.
 # How to get/How to contribute?
 
 Contact to the maintainer @kazulagi by e-mail.
+You can get these seed for free, under Open-Source Seed License (Kotschi, J. and Rapf, K., 2016)
 
