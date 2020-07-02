@@ -14,7 +14,7 @@ kz 2020070101　（Code Name: Sawando, さわんど）
 
     Selected for Tofu and processing foods.
 
-kz 2020070102　（Code Name: Sawando, つるぎ）
+kz 2020070102　（Code Name: Tsurugi, つるぎ）
 -   Mizukuguri (JP 233882) ×　Stressland (PI 593645) => F7
 
 
