@@ -10,10 +10,14 @@ If you want to get seed, you can get the sources or physical instances of seed.
 
 kz 2020070101
 -   Enrei (JP 239573) ×　Mizukuguri (JP 233882) => F8
+
+
     Selected for Tofu and processing foods.
 
 kz 2020070102
 -   Mizukuguri (JP 233882) ×　Stressland (PI 593645) => F7
+
+
     Selected for Soymilk and cakes.
 
 Others are comming soon...
