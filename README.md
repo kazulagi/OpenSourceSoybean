@@ -1,7 +1,7 @@
 # OpenSourceSoybean
 Open-Source-Soybean. You can get open-source varieties of soybean.
 
-Soybean (Glycine max L.) is one of the most important crop. 
+Soybean (Glycine max L.) is one of the most important crops. 
 We are breeders and breeding open-source soybean varieties.
 If you want to get seed, you can get the sources or physical instances of seed.
 
@@ -20,7 +20,7 @@ kz 2020070102
 
     Selected for Soymilk and cakes.
 
-Others are comming soon...
+Others are coming soon...
 
 
 # Who can get it?
@@ -30,6 +30,6 @@ We are international volunteers.
 
 # How to get/How to contribute?
 
-Contact to the maintainer @kazulagi by e-mail.
+Contact the maintainer @kazulagi by e-mail.
 You can get these seed for free, under Open-Source Seed License (Kotschi, J. and Rapf, K., 2016)
 
